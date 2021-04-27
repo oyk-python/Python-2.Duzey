@@ -1,11 +1,10 @@
 GNU Özgür Belgelendirme Lisansı
 
-Sürüm 1.3, Kasım 2008
+Sürüm 1.3, Kasım 2021
 
-Copyright (C) 2000, 2001, 2002, 2007, 2008  Özgür Yazılım Vakfı 
-51 Franklin St, Fifth Floor, Boston, MA  02110-1301  ABD
-Bu lisans belgesinin tam kopyasının herkes tarafından koplayalanması ve 
-dağıtımı serbest olup, değiştirilmesi yasaktır. 
+Copyright (C) [years]
+Özgür Yazılım Vakfı 
+51 Franklin St, Fifth Floor, Boston, MA  02110-1301.
 
 0. GİRİŞ
 
@@ -19,7 +18,7 @@ sorumlu tutulmamalarını sağlamayı hedefler.
 
 İşbu lisans telif müsadeli olup, bu belgeden türetilen çalışmaların da 
 aynı şeklide özgür olması anlamına gelir. Özgür yazılım için 
-tasarlanmış telif müsadeli GNU Genel Kamu Lisansı’nı tamamlar 
+tasarlanmış telif müsadeli GNU Genel Kamu Lisansını tamamlar 
 niteliktedir.
 
 İşbu lisansı özgür yazılım ürünleri için hazırlanan kılavuzlarda 
@@ -38,17 +37,17 @@ uyarınca dağıtılabileceği belirtilen bir uyarı içeren kılavuz ya da
 diğer çalışmalara her ortamda uygulanır. Böyle bir uyarı, bahsi geçen 
 çalışmayı burada bahsedilen şartlar altında kullanmak üzere sınırsız 
 süreli, dünya çapında, telifsiz bir lisans verir. Aşağıda belirtilen 
-“Belge” kavramı bu kılavuz ya da çalışmaları kasteder. Kamuoyundaki 
-herkes lisans sahibidir ve bu lisans sahiplerine işbu belgede “siz” 
+Belge kavramı bu kılavuz ya da çalışmaları kasteder. Kamuoyundaki 
+herkes lisans sahibidir ve bu lisans sahiplerine işbu belgede siz 
 olarak hitap edilecektir. Çalışmayı telif hakkı yasası uyarınca gereken 
 izinler gerektirecek şekilde kopyalamanız, değiştirmeniz ya da 
 dağıtmanız halinde lisansı kabul etmiş sayılırsınız.
 
-Belgenin “Değiştirilmiş Sürümü”; ya tam kopyasını ya da yapılan 
+Belgenin değiştirilmiş sürümü ya tam kopyasını ya da yapılan 
 değişikliklerle ve/veya başka bir dile yapılan çevirisiye birlikte, 
 belgeyi ya da bir parçasını içeren çalışmadır.
 
-“İkincil Kısım”; özellikle belgenin yazarının ya da yayıncının 
+İkincil Kısım özellikle belgenin yazarının ya da yayıncının 
 belge konusuyla (ya da ilgili konularla) ilişkisinden bahseden ya da belgenin 
 konusuyla doğrudan ilgili olmayan bir içeriğe sahip, belgenin eki ya da ön 
 bölümleri adı verilen kısımları kasteder. (Dolayısıyla, eğer belge 
@@ -57,7 +56,7 @@ ilgili bir açıklama içermeyebilir.) Bahsedilen ilişki, konuyla ya da
 benzer hususlarla ilgili tarihsel bir mesele, ya da yasal, ticari, felsefi, 
 etnik ya da politik duruşa dair bir mesele olabilir.
 
-“ Değişmeyen Kısımlar”; belgenin işbu lisans altında 
+Değişmeyen Kısımlar belgenin işbu lisans altında 
 çıkarıldığını belirten uyarıda değişmeyen kısımlar olarak 
 başlıkları tayin edilen bazı ikincil kısımları kasteder. Eğer bir 
 kısım, yukarıdaki ikincil kısım tanımına uymuyorsa, Değişmeyen 
@@ -65,12 +64,12 @@ Kısım olarak adlandırılmasına izin verilmez. Belge hiç Değişmeyen
 Kısım içermeyebilir. Eğer belge herhangi bir Değişmeyen Kısım 
 belirlemediyse, o belgede Değişmeyen Kısım yok demektir.
 
-“Kapak Metinleri”, belgenin işbu lisans altında çıkarıldığını 
+Kapak Metinleri belgenin işbu lisans altında çıkarıldığını 
 belirten uyarıda Ön Kapak Yazıları ya da Arka Kapak Yazıları olarak 
 sıralanan, metnin bazı kısa paragraflarıdır. Bir Ön Kapak Yazısı en 
 fazla 5, bir Arka Kapak Yazısı en fazla 25 kelime içerebilir.
 
-Metnin “Transparan” kopyaları; makine tarafından okunabilir, 
+Metnin Transparan kopyaları; makine tarafından okunabilir, 
 açıklamaları genel kamuya açık, genel metin düzenleyiciler ya da 
 (piksellerle oluşturulmuş resimler için) genel boyama programları ya da ( 
 çizimler için) yaygın çizim düzenleyiciler tarafından belgeyi açıkça 
@@ -78,11 +77,11 @@ düzenlemeye elverişli biçimde olan; metin formatlayıcılar için girdi
 olarak ya da otomatik çeviri bakımından metin formatlayıcılar için 
 çeşitli biçimlerde girdiler olarak uygun kopyadır. Biçimlendirmesi 
 okuycular tarafından daha sonra yapılacak değişiklikleri bozmak ya da 
-engellemek için tasarlanmış başka “Transparan” biçimlerde 
-yapıldıysa, ya da biçimlendirme yoksa, bunlar “Transparan” sayılmaz. 
+engellemek için tasarlanmış başka Transparan biçimlerde 
+yapıldıysa, ya da biçimlendirme yoksa, bunlar Transparan sayılmaz. 
 Bir görüntü formatı eğer azımsanmayacak miktardaki bir metin için 
-kullanıldıysa Transparan sayılmaz. “Transparan” olmayan kopyalara 
-“Opak” denir.
+kullanıldıysa Transparan sayılmaz. Transparan olmayan kopyalara 
+Opak denir.
 
 Transparan kopyalar için uygun örnekler arasında düz, biçimlendirmesiz 
 ASCII, Textinfo veri formatı, LaTeX veri formatı, kamuya açık DTD kullanan 
@@ -90,34 +89,34 @@ SGML veya XML, insan eliyle düzeltmeye elverişli tasarlanmış standatlara
 uygun temel HTML, Postscript ya da insan eliyle düzeltmek için tasarlanmış 
 PDF sayılabilir. Transparan görsel formatları arasında PNG, XCF ve JPG 
 vardır. Opak biçimlere örnekler arasında sadece patentli kelime 
-işlemciler tarafından okunup düzenlenebilen patentli biçimler, BTT’nin 
+işlemciler tarafından okunup düzenlenebilen patentli biçimler, BTT'nin 
 ve/veya işleme araçlarının genelde uygun bulunmadığı SGML ya da XML, ve 
 sadece çıktı amaçlı bazı kelime işlemciler tarafından üretilen makine 
 tarafından oluşturulmuş HTML, PostScript veya PDF bulunur.
 
-“Baş Sayfa”, basılı bir kitap için baştaki sayfa ve işbu lisansın 
+Baş Sayfa, basılı bir kitap için baştaki sayfa ve işbu lisansın 
 baş sayfada görünmesini zorunlu kıldığı materyali okunaklı bir 
 şekilde içermesi için gereken sonraki sayfalardır.Bir baş sayfası 
-olmayan biçimlerdeki çalışmalar için “Baş Sayfa”, metin gövdesinden 
+olmayan biçimlerdeki çalışmalar için Baş Sayfa, metin gövdesinden 
 önce çalışmanın başlığının yanında en göze çarpan metindir.
 
-“Yayımcı” belgenin kopyalarını kamuya dağıtan her türlü kişi ya 
+Yayımcı belgenin kopyalarını kamuya dağıtan her türlü kişi ya 
 da kuruluş anlamına gelir.
 
-“XYZ Başlıklı” şeklindeki bir kısım, başlığı açıkça XYZ olan 
-ya da XYZ’nin başka dildeki çevirisini parantezle bir sonraki cümlede 
+XYZ Başlıklı şeklindeki bir kısım, başlığı açıkça XYZ olan 
+ya da XYZ'nin başka dildeki çevirisini parantezle bir sonraki cümlede 
 içeren bir başlığa sahip belgenin altbirimi olduğu anlamına gelir. 
 (Burada XYZ aşağıda bahsi geçen özel bir kısım adı anlamındadır; 
-örneğin “Referanslar”, “İthaflar”, “Onaylar” ya da 
-“Geçmiş” gibi.) Belgeyi düzenlerken böyle bir kısmın 
-“Başlığını Korumak” demek, bu tanımlamaya göre “XYZ 
-Başlıklı” adında bir kısmı koruyor demektir.
+örneğin Referanslar, İthaflar, Onaylar ya da 
+Geçmiş gibi.) Belgeyi düzenlerken böyle bir kısmın 
+Başlığını Korumak demek, bu tanımlamaya göre XYZ 
+Başlıklı adında bir kısmı koruyor demektir.
 
 Belge, işbu lisansın belgeye uygulandığını belirten uyarının yanında 
-Haklarından Vazgeçenler’i de içerebilir. Bahsi geçen Haklarından 
+Haklarından Vazgeçenler'i de içerebilir. Bahsi geçen Haklarından 
 Vazgeçenler, işbu lisansta referans olarak dahil edilmiş kabul edilir, 
 ancak bu durum sadece haklardan vazgeçme konusunda böyle sayılır: Bahsi 
-geçen Haklarından Vazgeçenler’in her türlü çıkarımı hükümsüz 
+geçen Haklarından Vazgeçenler'in her türlü çıkarımı hükümsüz 
 olup, işbu lisansın anlamına etki etmemektedir.
 
 2. BİREBİR KOPYALAMAK
@@ -210,10 +209,10 @@ Metinlerini koruyunuz.
 
     H. İşbu Lisansın değiştrilmemiş bir kopyasını ekleyiniz.
 
-    I. “Geçmiş” olarak adlandırılan kısmı ve başlığını muhafaza 
+    I. Geçmiş olarak adlandırılan kısmı ve başlığını muhafaza 
 ediniz, ve bu kısma en azından Değiştirilmiş Sürümün başlığını, 
 yılını, yeni yazarları ve yayımcısını belirten bir maddeyi baş 
-sayfada sunulduğu gibi ekleyiniz. Eğer belgede ”Geçmiş” adında bir 
+sayfada sunulduğu gibi ekleyiniz. Eğer belgede Geçmiş adında bir 
 kısım yer almıyorsa, baş sayfada yer aldığı gibi belgenin başlığı, 
 yılı, yazarları ve yayımcısı bilgilerini içerecek şekilde böyle bir 
 kısım oluşturunuz, daha sonra önceki cümlede belirtildiği üzere 
@@ -222,12 +221,12 @@ Değiştirilmiş Sürüm bilgisini ekleyiniz.
     J. Eğer mevcutsa belgenin içinde transparan kopyasına kamu tarafından 
 erişim sağlanan ağ konumunu muhafaza ediniz, ve aynı şekilde belgenin 
 dayandığı önceki sürümlere erişim sağlayan ağ konumlarını da 
-muhafaza ediniz. Bu bilgiler “Geçmiş” kısmında konumlandırılmış 
+muhafaza ediniz. Bu bilgiler Geçmiş kısmında konumlandırılmış 
 olabilir. Belgenin kendisinden en az dört yıl önce yayımlanmış ya da 
 sürümün yayımcısı tarafından izin verilmiş bir çalışmanın ağ 
 konumunu çıkarabilirsiniz.
 
-    K. “Referanslar” ya da “İthaflar” olarak adlandırılan 
+    K. Referanslar ya da İthaflar olarak adlandırılan 
 kısımda, ilgili kısmın başlığını koruyunuz, ve bahsi geçen kısımda 
 verilen her bir katkı sağlayan referansın ve/veya ithafın içeriğini ve 
 niteliğini koruyunuz.
@@ -236,10 +235,10 @@ niteliğini koruyunuz.
 değişmede muhafaza ediniz. Bölüm numaraları veya eşdeğerleri bölüm 
 başlığının birer parçası olarak kabul edilmezler.
 
-    M. “Onaylar” adında bir kısım yer alıyorsa bu kısmı siliniz. 
+    M. Onaylar adında bir kısım yer alıyorsa bu kısmı siliniz. 
 Böyle bir kısım Değiştirilmiş Sürümde yer almayabilir.
 
-    N. Var olan bir kısmı “Onaylar” olarak yeniden adlandırmayınız, 
+    N. Var olan bir kısmı Onaylar olarak yeniden adlandırmayınız, 
 ya da herhangi bir Değişmeyen kısmın ismiyle çakıştırmayınız.
 
     O. Her türlü Haklarından Vazgeçenler maddesini koruyunuz.
@@ -253,7 +252,7 @@ listesine başlıklarını ekleyiniz. Bu başlıklar diğer herhangi bölüm
 başlıklarından farklı olmalıdır.
 
 Değiştirimiş Sürümünüzün çeşitli kısımlarından Onaylar dışında 
-bir şey içermediği takdirde, “Onaylar” başlıklı bir kısım 
+bir şey içermediği takdirde, Onaylar başlıklı bir kısım 
 ekleyebilirsiniz; örneğin emsal değerlendirme ya da metnin bir kuruluş 
 tarafından bir standardın yetkili açıklaması olarak kabul edilme 
 açıklamalarıysa yukarıdaki durum uygulanır.
@@ -278,7 +277,7 @@ Değiştirilmiş Sürümler için yukarıda bölüm 4′te belirlenen
 koşullar uyarınca, tüm özgün belgelerin değişmeyen kısımlarınının 
 birleşimini değiştirmeden eklemeniz ve lisans uyarısında birleştirilmiş 
 çalışmanızın değişmeyen kısımları olarak listelemeniz, ve 
-Haklarından Vazgeçenler’i korumanız koşuluyla, belgenizi bu lisansla 
+Haklarından Vazgeçenler'i korumanız koşuluyla, belgenizi bu lisansla 
 piyasaya sunulmuş diğer belgelerle birleştirebilirsiniz.
 
 Birleştirilmiş çalışmanın bu lisansın sadece bir kopyasını içermesi 
@@ -291,11 +290,11 @@ yayımcısını, veya kendine özgü bir numara ekleyiniz. Aynı düzenlemeyi
 birleştirilmiş çalışmanın lisans uyarısındaki değişmeyen kısımlar 
 listesindeki kısım başlıklarında da yapınız.
 
-Birleştirilmiş çalışmada, çeşitli özgün metinlerde “Geçmiş” 
-olarak adlandırılmış kısımları tek bir “Geçmiş” başlıklı bir 
-kısımda toplamalısınız; “Refeanslar” adlı kısımları ve 
-“İthaflar” adlı kısımları da aynı şekilde birleştiriniz. 
-“Onaylar” adı verilen tüm kısımları silmelisiniz.
+Birleştirilmiş çalışmada, çeşitli özgün metinlerde Geçmiş 
+olarak adlandırılmış kısımları tek bir Geçmiş başlıklı bir 
+kısımda toplamalısınız; Refeanslar adlı kısımları ve 
+İthaflar adlı kısımları da aynı şekilde birleştiriniz. 
+Onaylar adı verilen tüm kısımları silmelisiniz.
 
 6. BELGELERİN DERLEMESİ
 
@@ -316,7 +315,7 @@ Derlemeden doğan telif hakkı derleme sahibinin yasal haklarını bireysel
 çalışmanın izin verdiğinin ötesinde kısıtlamak için 
 kullanılmıyorsa, bir belgenin ya da türevlerinin depolama birimi ya da 
 dağıtım ortamında diğer ayrı ve bağımsız belge ya da çalışmalarla 
-derlemesine “birleşim” adı verilir. Belge bir birleşime dahil 
+derlemesine birleşim adı verilir. Belge bir birleşime dahil 
 edildiğinde, işbu lisans derlemeye dahil edilen diğer işlerden belgenin 
 türevi olmayanlara uygulanmaz.
 
@@ -336,13 +335,13 @@ izni gerekmektedir, ancak Değişmeyen kısımlarının bazılarının ya da
 hepsinin çevirilerini özgün sürümleriyle birlikte ekleyebilirsiniz. 
 İşbu lisansın İngilizce sürümü ile uyarıların ve vazgeçenlerin 
 özgün sürümlerini de dahil etmeniz koşuluyla lisansın bir çevirisini, 
-belgedeki tüm lisans uyarılarını ve Haklarından Vazgeçenler’i 
+belgedeki tüm lisans uyarılarını ve Haklarından Vazgeçenler'i 
 ekleyebilirsiniz. İşbu lisansın özgün metniyle çevirisi arasında, ya da 
 bir uyarı veya vazgeçen arasında bir uyumsuzluk olması durumunda, özgün 
 İngilizce metin geçerli olacaktır.
 
-Eğer bir kısmın adı “Referanslar”, “İthaflar” ya da 
-“Geçmiş” ise, Başlığını Koruma (bölüm 1) gerekliliği (bölüm 4) 
+Eğer bir kısmın adı Referanslar, İthaflar ya da 
+Geçmiş ise, Başlığını Koruma (bölüm 1) gerekliliği (bölüm 4) 
 genellikle halihazırdaki başlığı değiştirmeyi gerektirir.
 
 9. İPTAL
@@ -376,14 +375,14 @@ hakkı vermez.
 10. İŞBU LİSANSIN İLERİDE DEĞİŞTİRİLMESİ
 
 Özgür Yazılım Vakfı, dönem dönem GNU Özgür Belgelendirme 
-Lisansı’nın yeni, düzenlenmiş bir sürümünü yayımlayabilir. Bu yeni 
+Lisansı'nın yeni, düzenlenmiş bir sürümünü yayımlayabilir. Bu yeni 
 sürümler şimdiki sürümlerle aynı ruhu taşıyor olup, yeni sorun ve 
 endişeleri ele alışı bakımından farklılık gösterebilir. Bakınız 
-http://www.gnu.org/copyleft/.
+https://www.gnu.org/copyleft/.
 
 İşbu lisansın her bir sürümüne ayırt edici bir sürüm numarası 
-verilir. Eğer belge GNU Özgür Belgelendirme Lisansı’nın bazı numaralı 
-sürümlerinin ya da “daha sonraki herhangi bir sürümün” ona 
+verilir. Eğer belge GNU Özgür Belgelendirme Lisansı'nın bazı numaralı 
+sürümlerinin ya da daha sonraki herhangi bir sürümün ona 
 uygulandığını belirtiyorsa, bahsi geçen numaralı sürümün ya da 
 Özgür Yazılım Vakfı tarafından yayımlanan daha sonraki bir (taslak 
 olmayan) sürümün hükümlerini ve koşullarını kabul etme seçeneğiniz 
@@ -395,7 +394,7 @@ geçen vekilin bir sürümü kabul ettiğini kamuya beyan etmesi size kalıcı
 olarak belgenin o sürümünü seçme yetkisi verir.
 11. YENİDEN LİSANSLAMA
 
-“Kitlesel Çok Yazarlı İşbirliği Siteleri” (ya da MMC Siteleri), telif 
+Kitlesel Çok Yazarlı İşbirliği Siteleri (ya da MMC Siteleri), telif 
 hakkı alınabilir işleri yayımlayan ve bu işleri düzenlemek isteyenlere 
 önemli kolaylıklar sağlayan her türlü Dünya Çapında Ağ sunucusu 
 anlamına gelir. Herkesin düzenlemesine açık birden fazla yazarı olan 
@@ -403,21 +402,21 @@ anlamına gelir. Herkesin düzenlemesine açık birden fazla yazarı olan
 alan bir Kitlesel Çok Yazarlı İşbirlik (ya da MMC), MMC sitesinde bu 
 şekilde yayımlanan her türlü telif hakkı alınabilir iş grubudur.
 
-“CC-BY-SA”, iş merkezi Kaliforniya San Francisco’da bulunan, kar amacı 
+CC-BY-SA, iş merkezi Kaliforniya San Francisco'da bulunan, kar amacı 
 gütmeyen Creative Commons Kuruluşu tarafından yayımlanan Creative Commons 
 Attribution- Eşit Haklar 3.0 lisansını ve aynı kuruluş tarafından işbu 
 lisansın telif müsadeli (copyleft) olarak yayımlanacak sürümlerini ifade 
 eder.
 
-“Incorporate” bir belgenin tamamını ya da bir kısmını başka bir 
+Incorporate bir belgenin tamamını ya da bir kısmını başka bir 
 belgenin parçası olarak yayımlamak ya da yeniden yayımlamak anlamına 
 gelir.
 
 Bir MMC, eğer işbu lisans altında lisanslandıysa, ve bu MMC dışındaki 
-önce işbu lisansla yayımlanıp daha sonra tamamen ya da kısmen MMC’ye 
+önce işbu lisansla yayımlanıp daha sonra tamamen ya da kısmen MMC'ye 
 bağlanan tüm işler (1) kapak metni ya da değişmeyen kısım içermiyor ve 
-(2) 1 Kasım 2008′den önce bağlandıysa, tekrar lisanslamaya uygundur.
+(2) 1 Kasım 2021′den önce bağlandıysa, tekrar lisanslamaya uygundur.
 
 Bir MMC sitesinin işleticisi, CC-BY-SA altında sitede 1 Ağustos 2009′dan 
-önce yer alan bir MMC’yi, yeniden lisanslamaya uygun olduğu takdirde, 
+önce yer alan bir MMC'yi, yeniden lisanslamaya uygun olduğu takdirde, 
 yeniden yayımlayabilir.
